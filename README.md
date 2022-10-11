@@ -75,3 +75,22 @@ MongoDB supports many datatypes such as:
 ## Reference
 - [All Basics of MongoDB](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
 
+
+
+
+
+## Author
+<a href="https://www.linkedin.com/in/labrijisaad/" target="_blank">Saad LABRIJI</a>
+
+
+## Change Log
+| Date (YYYY-MM-DD) | Version | Changed By    | Change Description                                 |
+| ----------------- | ------- | ------------- | -------------------------------------------------- |
+| 2022-10-10        | 1.0     | Labriji saad  | Created the project                                |
+
+
+
+<hr>
+
+## <h3 align="center"> For academic and non-commercial use only<h3/>
+
