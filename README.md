@@ -87,7 +87,6 @@ MongoDB supports many datatypes such as:
 - [All Basics of MongoDB](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
 
 
-
 ## Author
 <a href="https://www.linkedin.com/in/labrijisaad/" target="_blank">Saad LABRIJI</a>
 

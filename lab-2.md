@@ -11,3 +11,20 @@ The command contains the **username** and **password** to connect to mongodb ser
 
 
 ## `Updating and deleting documents in MongoDB based on specific criteria`
+
+
+
+
+
+
+# `Author`
+<a href="https://www.linkedin.com/in/labrijisaad/" target="_blank">Saad LABRIJI</a>
+
+
+# `Change Log`
+| Date (YYYY-MM-DD) | Version | Changed By    | Change Description                                 |
+| ----------------- | ------- | ------------- | -------------------------------------------------- |
+| 2022-10-12        | 1.0     | Labriji saad  | Added the lab                                      |
+
+
+
