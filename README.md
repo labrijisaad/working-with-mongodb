@@ -16,16 +16,26 @@
 
 
 ## Important Terms
->### Database
+
+<details>
+<summary><b>Database</b></summary>
 Database is a physical container for collections. Each database gets its own set of files on the file system. A single MongoDB server typically has multiple databases.
+</details>
 
->### Collection
+<details>
+<summary><b>Collection</b></summary>
 Collection is a group of documents and is similar to an RDBMS table. A collection exists within a single database. Collections do not enforce a schema. Documents within a collection can have different fields.
+</details>
 
->### Document
+
+<details>
+<summary><b>Document</b></summary>
 A document is a set of key-value pairs. Documents have dynamic schema. Dynamic schema means that documents in the same collection do not need to have the same set of fields or structure, and common fields in a collection’s documents may hold different types of data.
+</details>
 
->### Data Types
+<details>
+<summary><b>Data Types</b></summary>
+
 MongoDB supports many datatypes such as:
 
 - String − This is the most commonly used datatype to store the data. String in MongoDB must be UTF-8 valid.
@@ -43,6 +53,9 @@ MongoDB supports many datatypes such as:
 - Binary data − This datatype is used to store binary data.
 - Code − This datatype is used to store JavaScript code into the document.
 - Regular expression − This datatype is used to store regular expression.
+</details>
+
+
 
 
 ## Advantages of MongoDB
@@ -55,9 +68,6 @@ MongoDB supports many datatypes such as:
 - MongoDB provides native **high availability**.
 - MongoDB can be used in a variety of use cases.
 - The **scalability** MongoDB provides makes it easier to work across the globe And it enables us to perform **real-time analysis** on data.
-
-
-
 
 
 
