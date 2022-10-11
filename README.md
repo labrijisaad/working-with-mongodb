@@ -37,7 +37,6 @@ A document is a set of key-value pairs. Documents have dynamic schema. Dynamic s
 <summary><b>Data Types</b></summary>
 
 MongoDB supports many datatypes such as:
-
 - String − This is the most commonly used datatype to store the data. String in MongoDB must be UTF-8 valid.
 - Integer − This type is used to store a numerical value. Integer can be 32 bit or 64 bit depending upon your server.
 - Boolean − This type is used to store a boolean (true/ false) value.
@@ -55,8 +54,15 @@ MongoDB supports many datatypes such as:
 - Regular expression − This datatype is used to store regular expression.
 </details>
 
+<details>
+<summary><b>CRUD operations</b></summary>
 
+- The Mongo shell is an interactive command line tool provided by MongoDB to interact with your databases.
+- To use the Mongo shell, we first need to make a connection to our cluster via a connection string.
+- We use ‘show dbs’ to list databases, ‘use databasename’ to select a database, and ‘show collections’ to list collections in a database. 
+- CRUD operations consist of Create, Read, Update, and Delete: Useful functions include insertOne, insertMany, findOne, find, count, replace, updateOne, updateMany, deleteOne, and deleteMany.
 
+</details>
 
 ## Advantages of MongoDB
 
