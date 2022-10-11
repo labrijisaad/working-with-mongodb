@@ -6,7 +6,7 @@
 > MongoDB is a rich open-source document-oriented and one of the widely recognised NoSQL database. It is written in C++ programming language.
 
 
-## Overview of MongoDB :
+## Overview of MongoDB 
 - MongoDB is a document and a NoSQL database
 - MongoDB supports various data types 
 - Documents provide a flexible way of storing data 
@@ -53,6 +53,8 @@ MongoDB supports many datatypes such as:
 - MongoDB also utilizes an **evolving schema**. 
 - Complex data analysis can be done on the server using Aggregation Pipelines. 
 - MongoDB provides native **high availability**.
+- MongoDB can be used in a variety of use cases.
+- The **scalability** MongoDB provides makes it easier to work across the globe And it enables us to perform **real-time analysis** on data.
 
 
 
