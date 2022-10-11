@@ -90,7 +90,3 @@ MongoDB supports many datatypes such as:
 
 
 
-<hr>
-
-## <h3 align="center"> For academic and non-commercial use only<h3/>
-
