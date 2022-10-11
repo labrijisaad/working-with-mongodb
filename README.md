@@ -2,6 +2,10 @@
 >In this repository, I covered the basics of MongoDB 🥭
 
 
+## Definition 
+> MongoDB is a rich open-source document-oriented and one of the widely recognised NoSQL database. It is written in C++ programming language.
+
+
 ## Overview of MongoDB :
 - MongoDB is a document and a NoSQL database
 - MongoDB supports various data types 
@@ -10,17 +14,6 @@
 - MongoDB models data as you read/write, brings structured or unstructured data, and provides high availability 
 - MongoDB can be used for a variety of purposes because of the flexibility of storing structured or unstructured data
 
-## Advantages of MongoDB
-
-- The database schema can be flexible when working with MongoDB. 
-- We can change it as needed without involving complex data definition language statements. 
-- MongoDB uses a **code-first approach**, instead of a design then code approach. 
-- MongoDB also utilizes an **evolving schema**. 
-- Complex data analysis can be done on the server using Aggregation Pipelines. 
-- MongoDB provides native **high availability**.
-
-## Definition 
-MongoDB is a rich open-source document-oriented and one of the widely recognised NoSQL database. It is written in C++ programming language.
 
 ## Important Terms
 >### Database
@@ -52,5 +45,31 @@ MongoDB supports many datatypes such as:
 - Regular expression − This datatype is used to store regular expression.
 
 
+## Advantages of MongoDB
+
+- The database schema can be flexible when working with MongoDB. 
+- We can change it as needed without involving complex data definition language statements. 
+- MongoDB uses a **code-first approach**, instead of a design then code approach. 
+- MongoDB also utilizes an **evolving schema**. 
+- Complex data analysis can be done on the server using Aggregation Pipelines. 
+- MongoDB provides native **high availability**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Reference
 - [All Basics of MongoDB](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
+
