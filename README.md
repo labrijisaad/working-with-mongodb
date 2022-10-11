@@ -70,13 +70,8 @@ MongoDB supports many datatypes such as:
 - The **scalability** MongoDB provides makes it easier to work across the globe And it enables us to perform **real-time analysis** on data.
 
 
-
-
-
-
-
-
-
+## 🥭 MongoDB Labs 🧪
+- [Lab 1](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-1.md)
 
 
 
@@ -84,8 +79,6 @@ MongoDB supports many datatypes such as:
 
 ## Reference
 - [All Basics of MongoDB](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
-
-
 
 
 
