@@ -78,10 +78,7 @@ MongoDB supports many datatypes such as:
 
 ## 🥭 MongoDB Labs 🧪
 - [Lab 1](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-1.md)
-
-
-
-
+- [Lab 2](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-2.md)
 
 ## Reference
 - [All Basics of MongoDB](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
