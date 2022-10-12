@@ -64,6 +64,23 @@ MongoDB supports many datatypes such as:
 
 </details>
 
+<details>
+<summary><b>Indexes in MongoDB</b></summary>
+
+- MongoDB stores an index as a tree to make finding documents more efficient.
+- Indexes help quickly locate data without looking for it everywhere.
+- Indexes should be created for the most frequent queries. 
+- A compound index indexes more than one field.
+- MongoDB stores data being indexed on the index entry and a location of the document on disk.
+</details>
+
+
+
+
+
+
+
+
 ## Advantages of MongoDB
 
 - The database schema can be flexible when working with MongoDB. 
