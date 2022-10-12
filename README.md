@@ -74,7 +74,13 @@ MongoDB supports many datatypes such as:
 - MongoDB stores data being indexed on the index entry and a location of the document on disk.
 </details>
 
+<details>
+<summary><b>Aggregation Framework in MongoDB</b></summary>
 
+- Using an aggregation framework, we can perform complex analysis on the data in MongoDB. 
+- We can build our aggregation process in stages such as match, group, project, and sort.
+- The outcome of an aggregation process can be queried or stored into another collection using `$merge`.
+</details>
 
 
 
