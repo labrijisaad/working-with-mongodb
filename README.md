@@ -15,7 +15,7 @@ MongoDB is a rich open-source document-oriented and one of the widely recognised
 - MongoDB can be used for a variety of purposes because of the flexibility of storing structured or unstructured data
 
 
-## Important Terms
+## Important Terms & Methods
 
 <details>
 <summary><b>Database</b></summary>
@@ -82,6 +82,30 @@ MongoDB supports many datatypes such as:
 - The outcome of an aggregation process can be queried or stored into another collection using `$merge`.
 </details>
 
+<details>
+<summary><b>Replication & Sharding </b></summary>
+
+- `Data replication` is the process of making multiple copies of data and storing them at different locations for backup purposes.
+- `Database sharding` is the process of storing a large database across multiple machines.
+- Replication is duplication of data and any changes made to the data. 
+- Replication provides fault tolerance, redundancy, and high availability for your data.
+- Replication will not prevent a disaster such as the deletion of documents, collections, or even databases. 
+- For those human errors, we have backups.
+- For growing data sets, you can use Sharding to scale horizontally.
+</details>
+
+<details>
+<summary><b>Accessing MongoDB from Python</b></summary>
+
+- MongoClient is a class that helps you interact with MongoDB.
+- MongoClient is imported from pymongo, the official MongoDB driver for Python. 
+- We can perform single or bulk inserts. We can replace whole documents
+- We can perform an in-place update, which is a preferred option.
+- And we can delete one or more documents from our collection.
+</details>
+
+
+
 
 
 
@@ -102,8 +126,9 @@ MongoDB supports many datatypes such as:
 ## 🥭 MongoDB Labs 🧪
 - [Lab 1 - Getting Started](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-1.md)
 - [Lab 2 - CRUD operations](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-2.md)
-
 - [Lab 3 - MongoDb Indexing](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-3.md)
+- [Lab 4 - MongoDB Aggregation](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-4.md)
+- [Lab 5 - Accessing MongoDB from Python](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-5.md)
 
 
 ## Reference
