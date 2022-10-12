@@ -1,18 +1,47 @@
 ## `Creating documents in MongoDB with the insert method`
 
-- start the mongodb server. 
->![image](https://user-images.githubusercontent.com/74627083/195077524-17e3ead5-27e1-4559-b68e-a3231df16d7a.png)
-The command contains the **username** and **password** to connect to mongodb server (the text after the -p option is the password). 
-
+- Insert five documents into the collection languages
+>![image](https://user-images.githubusercontent.com/74627083/195308790-2f0267f5-cec0-468e-9a4e-8a250bf1985f.png)
 
 ## `Reading documents by listing them, counting them and matching them to a query`
 
-:D
+- Find the count of documents.
+>![image](https://user-images.githubusercontent.com/74627083/195309036-c1f93867-93fa-4a6f-bf82-a35b05908581.png)
 
+- List the first document in the collection.
+>![image](https://user-images.githubusercontent.com/74627083/195309322-5eda02b8-d063-4caa-a4ee-bd504623beba.png)
+
+
+- List all documents in the collection.
+>![image](https://user-images.githubusercontent.com/74627083/195309494-9e1d905f-6af5-41fa-919c-792bcdecbea5.png)
+
+- List first 3 documents in the collection.
+>![image](https://user-images.githubusercontent.com/74627083/195309695-7eb86701-9281-4bbd-807f-30ced4ef1f71.png)
+
+- Query for "python" language.
+>![image](https://user-images.githubusercontent.com/74627083/195309922-49c6b9a8-8ae1-4052-b519-c41f1affe62b.png)
+
+- Query for "object oriented" languages.
+>![image](https://user-images.githubusercontent.com/74627083/195310107-9e7de931-bb15-4dbc-b859-6875308fe5f0.png)
+
+- List only specific fields.
+>>> Using a projection document WE can specify what fields we wish to see or skip in the output.
+
+>![image](https://user-images.githubusercontent.com/74627083/195310735-36af03af-835b-4dca-9f30-e1cebdcde8c5.png)
+This command lists all the documents with only name field in the output.
+
+![image](https://user-images.githubusercontent.com/74627083/195311081-4c2d197e-c678-4378-b5ac-f6027a9b52e0.png)
+This command lists all the documents without the name field in the output.
+
+
+![image](https://user-images.githubusercontent.com/74627083/195311466-36661c25-8413-403f-834d-bed5d259265c.png)
+This command lists all the "object oriented" languages with only "name" field in the output.
 
 ## `Updating and deleting documents in MongoDB based on specific criteria`
 
+The **`updateMany`** command is used to update documents in a mongodb collection, and it has the following generic syntax :
 
+      db.collection.updateMany({what documents to find},{$set:{what fields to set}})
 
 
 
