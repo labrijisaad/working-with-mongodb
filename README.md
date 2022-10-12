@@ -124,11 +124,11 @@ MongoDB supports many datatypes such as:
 
 
 ## 🥭 MongoDB Labs 🧪
-- [Lab 1 - Getting Started](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-1.md)
-- [Lab 2 - CRUD operations](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-2.md)
-- [Lab 3 - MongoDb Indexing](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-3.md)
-- [Lab 4 - MongoDB Aggregation](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-4.md)
-- [Lab 5 - Accessing MongoDB from Python](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-5.md)
+- [Lab 1 - Getting Started](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-1.md)
+- [Lab 2 - CRUD operations](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-2.md)
+- [Lab 3 - MongoDb Indexing](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-3.md)
+- [Lab 4 - MongoDB Aggregation](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-4.md)
+- [Lab 5 - Accessing MongoDB from Python](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-5.md)
 
 
 ## Reference
