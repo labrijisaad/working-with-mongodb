@@ -77,8 +77,8 @@ MongoDB supports many datatypes such as:
 
 
 ## 🥭 MongoDB Labs 🧪
-- [Lab 1](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-1.md)
-- [Lab 2](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-2.md)
+- [Lab 1 - Getting Started](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-1.md)
+- [Lab 2 - CRUD operations](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-2.md)
 
 ## Reference
 - [All Basics of MongoDB](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
@@ -91,7 +91,9 @@ MongoDB supports many datatypes such as:
 ## Change Log
 | Date (YYYY-MM-DD) | Version | Changed By    | Change Description                                 |
 | ----------------- | ------- | ------------- | -------------------------------------------------- |
-| 2022-10-10        | 1.0     | Labriji saad  | Created the project                                |
+| 2022-10-10        |   --    | Labriji saad  | Created the project                                |
+| 2022-10-11        |   --    | Labriji saad  | Added Lab-1                                        |
+| 2022-10-12        |   --    | Labriji saad  | Added Lab-2                                        |
 
 
 
