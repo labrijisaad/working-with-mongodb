@@ -80,6 +80,9 @@ MongoDB supports many datatypes such as:
 - [Lab 1 - Getting Started](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-1.md)
 - [Lab 2 - CRUD operations](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-2.md)
 
+- [Lab 3 - MongoDb Indexing](https://github.com/labrijisaad/working-with-mongodb/blob/main/lab-3.md)
+
+
 ## Reference
 - [All Basics of MongoDB](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
 
@@ -94,6 +97,7 @@ MongoDB supports many datatypes such as:
 | 2022-10-10        |   --    | Labriji saad  | Created the project                                |
 | 2022-10-11        |   --    | Labriji saad  | Added Lab-1                                        |
 | 2022-10-12        |   --    | Labriji saad  | Added Lab-2                                        |
+| 2022-10-12        |   --    | Labriji saad  | Added Lab-3                                        |
 
 
 
