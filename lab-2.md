@@ -37,11 +37,32 @@ This command lists all the documents without the name field in the output.
 ![image](https://user-images.githubusercontent.com/74627083/195311466-36661c25-8413-403f-834d-bed5d259265c.png)
 This command lists all the "object oriented" languages with only "name" field in the output.
 
-## `Updating and deleting documents in MongoDB based on specific criteria`
+## `Updating documents in MongoDB based on specific criteria`
 
 The **`updateMany`** command is used to update documents in a mongodb collection, and it has the following generic syntax :
 
       db.collection.updateMany({what documents to find},{$set:{what fields to set}})
+
+- Adding a field description with value programming language to all the documents.
+>![image](https://user-images.githubusercontent.com/74627083/195322101-ec706e76-cb93-49a1-a442-cf121041325d.png)
+
+- Setting the creater for python language.
+>![image](https://user-images.githubusercontent.com/74627083/195322347-5d9590af-3003-4055-ab9e-4cae8a2d80f1.png)
+
+- Setting a field named **compiled** with a **value true** for all the object oriented languages.
+>![image](https://user-images.githubusercontent.com/74627083/195322622-7edc298a-5676-44d3-897c-9b889ab011fb.png)
+
+## `Deleting documents in MongoDB based on specific criteria`
+
+- Deleting the scala language document
+>![image](https://user-images.githubusercontent.com/74627083/195323044-357c60d3-5d69-45b1-b8c3-792d1168a88e.png)
+
+- Deleting the object oriented languages
+>![image](https://user-images.githubusercontent.com/74627083/195323288-7985a4b4-c038-4765-87f7-550386ff8e05.png)
+
+- Delete all the documents in a collection.
+>![image](https://user-images.githubusercontent.com/74627083/195323417-a9ce596f-80d6-4263-bc9d-26b95f568f55.png)
+
 
 
 
