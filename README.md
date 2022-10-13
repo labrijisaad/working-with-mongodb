@@ -129,6 +129,7 @@ MongoDB supports many datatypes such as:
 - [Lab 3 - MongoDb Indexing](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-3.md)
 - [Lab 4 - MongoDB Aggregation](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-4.md)
 - [Lab 5 - Accessing MongoDB from Python](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-5.md)
+- [Extra-Lab - MongoDB InClass Lab](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/MongoDB%20in_class_lab.pdf)
 
 
 ## Reference
@@ -146,6 +147,7 @@ MongoDB supports many datatypes such as:
 | 2022-10-11        |   --    | Labriji saad  | Added Lab-1                                        |
 | 2022-10-12        |   --    | Labriji saad  | Added Lab-2                                        |
 | 2022-10-12        |   --    | Labriji saad  | Added Lab-3                                        |
+| 2022-10-13        |   --    | Labriji saad  | Added InClass Lab                                  |
 
 
 
