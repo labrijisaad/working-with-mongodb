@@ -1,7 +1,15 @@
-## `Creating documents in MongoDB with the insert method`
+## `Access the MongoDB database from Python with the pymongo driver`
 
-- Insert five documents into the collection languages
->![image](https://user-images.githubusercontent.com/74627083/195308790-2f0267f5-cec0-468e-9a4e-8a250bf1985f.png)
+- Install the pymongo driver
+>![image](https://user-images.githubusercontent.com/74627083/195726067-00d44ba0-516f-4838-ad03-8507a899392c.png)
+This installs the Python mongodb driver as shown in the image
+
+
+
+
+## `Perform basic operations such as selecting, inserting and listing using Python`
+## `Create a Python program to run the MongoDB operations`
+
 
 
 
