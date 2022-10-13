@@ -3,7 +3,7 @@
 
 
 ## Definition 
-MongoDB is a rich open-source document-oriented and one of the widely recognised NoSQL database. It is written in C++ programming language.
+`MongoDB` is a rich open-source document-oriented and one of the widely recognised NoSQL database. It is written in C++ programming language.
 
 
 ## Overview of MongoDB 
