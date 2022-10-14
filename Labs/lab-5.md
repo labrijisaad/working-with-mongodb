@@ -44,7 +44,7 @@ connection.close()
 ```
 
 - Connecting to mongodb
-![image](https://user-images.githubusercontent.com/74627083/195857843-1f9f058c-b456-4131-9259-f0ffe892f26f.png)
+>![image](https://user-images.githubusercontent.com/74627083/195857843-1f9f058c-b456-4131-9259-f0ffe892f26f.png)
 
 # `Author`
 <a href="https://www.linkedin.com/in/labrijisaad/" target="_blank">Saad LABRIJI</a>
