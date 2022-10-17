@@ -1,6 +1,10 @@
 # Basics of MongoDB 🥭 `🚧 In progress... 🚧`
->In this repository, I covered the basics of MongoDB 🥭
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74627083/196191465-0d1adc13-45ac-452a-96b4-6cd689bae181.png" width="30%"/>
+</p>
+
+>In this repository, I covered the basics of MongoDB 🥭
 
 ## Definition 
 `MongoDB` is a rich open-source document-oriented and one of the widely recognised NoSQL database. It is written in C++ programming language.
