@@ -126,6 +126,8 @@ MongoDB supports many datatypes such as:
 - MongoDB can be used in a variety of use cases.
 - The **scalability** MongoDB provides makes it easier to work across the globe And it enables us to perform **real-time analysis** on data.
 
+## 🥭 MongoDB Notes 📝
+- [Mongo Notes](https://github.com/labrijisaad/working-with-mongodb/blob/main/Mongo%20Notes/MongoDB_Notes.pdf)
 
 ## 🥭 MongoDB Labs 🧪
 - [Lab 1 - Getting Started](https://github.com/labrijisaad/working-with-mongodb/blob/main/Labs/lab-1.md)
@@ -152,6 +154,7 @@ MongoDB supports many datatypes such as:
 | 2022-10-12        |   --    | Labriji saad  | Added Lab-2                                        |
 | 2022-10-12        |   --    | Labriji saad  | Added Lab-3                                        |
 | 2022-10-13        |   --    | Labriji saad  | Added InClass Lab                                  |
+| 2022-10-25        |   --    | Labriji saad  | Added PDF notes                                    |
 
 
 
